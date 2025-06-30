@@ -54,7 +54,7 @@ DataTailor provides a principled and interpretable way for multi-modal data sele
 - ``ICCV 2023`` [Visually-prompted language model for fine-grained scene graph generation in an open world](https://openaccess.thecvf.com/content/ICCV2023/papers/Yu_Visually-Prompted_Language_Model_for_Fine-Grained_Scene_Graph_Generation_in_an_ICCV_2023_paper.pdf), **Qifan Yu**, Juncheng Li, Yu Wu, Siliang Tang, Wei Ji, Yueting Zhuang
 
 ## 🤖 Visual Agent
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Oral</div><img src='images/hallucidoctor.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Oral</div><img src='images/omnibench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [What Limits Virtual Agent Application? OmniBench: A Scalable Multi-Dimensional Benchmark for Essential Virtual Agent Capabilities](https://arxiv.org/pdf/2506.08933?) \\
