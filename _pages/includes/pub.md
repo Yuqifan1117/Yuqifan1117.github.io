@@ -22,7 +22,7 @@
 - ``Under Review`` [Dancing avatar: Pose and text-guided human motion videos synthesis with image diffusion model](https://arxiv.org/pdf/2308.07749), Bosheng Qin, Wentao Ye, **Qifan Yu**, Siliang Tang, Yueting Zhuang
 
 ## ✍️ Vision-languag Understanding
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/hallucidoctor.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/hallucidoctor.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HalluciDoctor: Mitigating Hallucinatory Toxicity in Visual Instruction Data](https://arxiv.org/pdf/2311.13614) \\
