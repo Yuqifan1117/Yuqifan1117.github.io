@@ -27,7 +27,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/hallucidoctor.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[HalluciDoctor: Mitigating Hallucinatory Toxicity in Visual Instruction Data](https://arxiv.org/pdf/2311.13614) \\
+[HalluciDoctor: Mitigating Hallucinatory Toxicity in Visual Instruction Data](https://arxiv.org/pdf/2311.13614) <span class='show_paper_citations' data='uodH3cwAAAAJ:u-x6o8ySG0sC'></span>\\
 **Qifan Yu**, Juncheng Li, Longhui Wei, Liang Pang, Wentao Ye, Bosheng Qin, Siliang Tang, Qi Tian, Yueting Zhuang
 
 [**Project**](https://github.com/Yuqifan1117/HalluciDoctor)
